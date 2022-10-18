@@ -15,7 +15,7 @@ int main(void)
 	{
 		putchar(a_bet);
 		a_bet++;
-	} while (A_bet <= 'Z');
+	} while (A_bet <= 'Z')
 	{
 		putchar(A_bet);
 		A_bet++;
